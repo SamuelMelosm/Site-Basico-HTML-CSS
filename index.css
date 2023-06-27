@@ -1,0 +1,101 @@
+*{
+    text-decoration: none;
+}
+
+body{
+    background-image: url(https://wallpaperaccess.com/full/6104616.jpg);
+    image-rendering: auto;
+}
+
+.title {
+    font: 48px;
+    color: orangered;
+    text-align: center;
+}
+
+.title2 {
+    font-size: 38px;
+    color: orangered
+}
+
+.contato {
+    font-size: 38px;
+    color: orangered
+
+}
+
+.fotologo{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid orangered
+}
+
+.redes1{
+    background-image: url(https://wallpaperaccess.com/full/6104616.jpg);
+    image-rendering: auto;
+}
+
+.redesnomes{
+    -webkit-text-fill-color: white;
+}
+
+.email{
+    -webkit-text-fill-color: white;
+}
+
+.SobreMim{
+    -webkit-text-fill-color: white;
+}
+
+.header{
+    text-align: center;
+}
+
+.Descrição{
+    text-align: center;
+ -webkit-text-fill-color: white;
+}
+
+.logofooter{
+    width: 30px;
+    height: 30px;
+   image-rendering: 1920px ;
+   display:flex;
+   justify-content:center;
+   margin: 30px;
+   text-align: center;
+   text-decoration: none;
+   -webkit-text-fill-color: white;
+}
+
+.icones{
+    display:flex;
+    justify-content:center;
+    margin: 30px;
+    text-align: center;
+    text-decoration: none;
+    -webkit-text-fill-color: white;
+    row-gap: 158px;
+}
+
+
+.aboutme{
+    text-align: center;
+    -webkit-text-fill-color: orangered;
+}
+
+a{
+    -webkit-text-fill-color: white;
+    text-decoration: none;
+}
+
+.texto{
+    text-align: center;
+}
+
+.embeds{
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px;
+}
